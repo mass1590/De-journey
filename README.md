@@ -7,7 +7,7 @@
 ### **Semaine 1-2 : Fondations SQL**
 - [x] **Jour 1** : `SELECT`, `WHERE`, `ORDER BY`, `LIMIT` → `Semaine-1/jour1-sql.sql`
 - [x] **Jour 2** : `GROUP BY`, `HAVING`, `COUNT`, `SUM`, `AVG` → `Semaine-2/jour2-group-by.sql`
-- [ ] **Jour 3** : `INNER JOIN`, `LEFT JOIN`
+- [x]  **Jour 3** : `INNER JOIN`, `LEFT JOIN`, `ANTI JOIN` ✅ 08/05/2026
 - [ ] **Jour 4** : Sous-requêtes + `CASE WHEN`
 - [ ] **Jour 5** : Projet SQL complet
 
