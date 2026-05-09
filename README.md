@@ -8,8 +8,8 @@
 - [x] **Jour 1** : `SELECT`, `WHERE`, `ORDER BY`, `LIMIT` → `Semaine-1/jour1-sql.sql`
 - [x] **Jour 2** : `GROUP BY`, `HAVING`, `COUNT`, `SUM`, `AVG` → `Semaine-2/jour2-group-by.sql`
 - [x]  **Jour 3** : `INNER JOIN`, `LEFT JOIN`, `ANTI JOIN` ✅ 08/05/2026
-- [ ] **Jour 4** : Sous-requêtes + `CASE WHEN`
-- [ ] **Jour 5** : Projet SQL complet
+- [x] **Jour 4** : Sous-requêtes + `CASE WHEN`
+- [x] **Jour 5** : Projet SQL complet
 
 ### **Semaine 3-4 : Python pour la Data**
 - [ ] Bases Python, Pandas, Numpy
