@@ -10,7 +10,7 @@
 - [x]  **Jour 3** : `INNER JOIN`, `LEFT JOIN`, `ANTI JOIN` ✅ 08/05/2026
 - [x] **Jour 4** : Sous-requêtes + `CASE WHEN`
 - [x] **Jour 5** : Projet SQL complet
-
+- [x] **Jour 6** : Projet SQL complet 
 ### **Semaine 3-4 : Python pour la Data**
 - [ ] Bases Python, Pandas, Numpy
 - [ ] Projet ETL : CSV → SQLite
